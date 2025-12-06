@@ -1,4 +1,3 @@
-package CP;
 
 import java.util.Scanner;
 
