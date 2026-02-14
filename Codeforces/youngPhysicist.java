@@ -17,5 +17,6 @@ public class youngPhysicist {
             System.out.println("YES");
         else
             System.out.println("NO");
+        sc.close();
     }
 }

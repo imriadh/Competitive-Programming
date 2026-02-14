@@ -32,5 +32,6 @@ public class Taxi {
         taxis += (c1 + 3) / 4;
 
         System.out.println(taxis);
+        sc.close();
     }
 }
